@@ -1,0 +1,26 @@
+What do you mean by BI? Explain.
+Business intelligence refers to technologies, applications, and practices that enable organizations to make more data-driven informed decisions by combining collection, 
+integration, analysis, and presentation of business information.
+
+How Power-BI helps in BI, and how does it help Analysts
+Microsoft Power BI is a suite of software that is designed to process data, carry out analysis and provide insights for quicker and easier decision-making. It provides advanced 
+analytics with which you can gain crucial insights, transform data and resolve your business problems.Power BI Desktop allows you to connect data, transform it as per your 
+requirements and visualize it to make vital business decisions. You can also connect to several data sources and unite them into a data model with the Power BI Desktop.
+
+
+Descriptive analytics is typically the starting point in business intelligence. It uses data aggregation and data mining to collect and organize historical data, producing 
+visualizations such as line graphs, bar charts, pie charts. Descriptive analytics presents a clear picture of what has happened in the past, such as statistical modeling does, 
+and it stops there — it doesn’t make interpretations or advise on future actions.
+
+Explain Predictive analytics?
+When you know what happened in the past and understand why it happened, you can then begin to predict what is likely to occur in the future based on that information.
+ Predictive analytics takes the investigation a step further, using statistics, computational modeling, and machine learning to determine the probability of various outcomes.
+ 
+Write five real-life questions that PowerBi can solve
+Sales Analysis Reports
+Email Marketing Reports
+Customer Profitability Reports
+Financial Analysis Reports
+Digital Marketing Reports
+HR Analytics Reports
+
